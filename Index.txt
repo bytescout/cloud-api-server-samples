@@ -25,6 +25,7 @@
 \PDF To JSON API
 \PDF To Text API
 \PDF To XML API
+\Text Recognition API
 \Add Text And Images To PDF\C#
 \Add Text And Images To PDF\Java
 \Add Text And Images To PDF\JavaScript
@@ -655,3 +656,5 @@
 \PDF To XML API\VB.NET\Convert PDF To XML From Uploaded File
 \PDF To XML API\VB.NET\Convert PDF To XML From URL
 \PDF To XML API\VB.NET\Convert PDF To XML From URL Asynchronously
+\Text Recognition API\C#
+\Text Recognition API\C#\Perform OCR On Uploaded File Asynchronously
