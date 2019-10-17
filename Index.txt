@@ -3,7 +3,6 @@
 \Add Text And Images To PDF
 \Barcode Generator API
 \Barcode Reader API
-\C#
 \CSV To PDF API
 \DOC To PDF API
 \Excel To CSV API
@@ -103,7 +102,6 @@
 \Barcode Reader API\VB.NET\Read Barcode From Uploaded File
 \Barcode Reader API\VB.NET\Read Barcode From URL
 \Barcode Reader API\VB.NET\Read Barcode From URL Asynchronously
-\C#\First Sample
 \CSV To PDF API\C#
 \CSV To PDF API\cURL
 \CSV To PDF API\Java
