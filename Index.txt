@@ -11,6 +11,7 @@
 \Excel To PDF API
 \HTML To PDF API
 \Image To PDF API
+\PDF Classifier
 \PDF Information API
 \PDF Make Searchable API
 \PDF Merging API
@@ -217,6 +218,8 @@
 \Image To PDF API\VB.NET\Convert Images To PDF From Uploaded Files
 \Image To PDF API\VB.NET\Convert Images To PDF From URLs
 \Image To PDF API\VB.NET\Convert Images To PDF From URLs Asynchronously
+\PDF Classifier\PowerShell
+\PDF Classifier\PowerShell\Classify Uploaded PDF Asynchronously
 \PDF Information API\C#
 \PDF Information API\cURL
 \PDF Information API\Java
