@@ -31,6 +31,7 @@
 \Add Text And Images To PDF\Java
 \Add Text And Images To PDF\JavaScript
 \Add Text And Images To PDF\PowerShell
+\Add Text And Images To PDF\Python
 \Add Text And Images To PDF\VB.NET
 \Add Text And Images To PDF\C#\Add Image by finding target coordinates
 \Add Text And Images To PDF\C#\Add Images to Existing PDF
@@ -50,6 +51,10 @@
 \Add Text And Images To PDF\PowerShell\Add Images to Existing PDF
 \Add Text And Images To PDF\PowerShell\Add Text by finding target coordinates
 \Add Text And Images To PDF\PowerShell\Add Text to Existing PDF
+\Add Text And Images To PDF\Python\Add Image by finding target coordinates
+\Add Text And Images To PDF\Python\Add Images to Existing PDF
+\Add Text And Images To PDF\Python\Add Text by finding target coordinates
+\Add Text And Images To PDF\Python\Add Text to Existing PDF
 \Add Text And Images To PDF\VB.NET\Add Image by finding target coordinates
 \Add Text And Images To PDF\VB.NET\Add Images to Existing PDF
 \Add Text And Images To PDF\VB.NET\Add Text by finding target coordinates
@@ -60,6 +65,7 @@
 \Barcode Generator API\JavaScript
 \Barcode Generator API\PHP
 \Barcode Generator API\PowerShell
+\Barcode Generator API\Python
 \Barcode Generator API\VB.NET
 \Barcode Generator API\C#\Generate Barcode
 \Barcode Generator API\cURL\Generate Barcode
@@ -72,6 +78,7 @@
 \Barcode Generator API\JavaScript\Generate Barcode - Async API
 \Barcode Generator API\PHP\Generate Barcode
 \Barcode Generator API\PowerShell\Generate Barcode
+\Barcode Generator API\Python\Generate Barcode
 \Barcode Generator API\VB.NET\Generate Barcode
 \Barcode Reader API\C#
 \Barcode Reader API\cURL
@@ -79,6 +86,7 @@
 \Barcode Reader API\JavaScript
 \Barcode Reader API\PHP
 \Barcode Reader API\PowerShell
+\Barcode Reader API\Python
 \Barcode Reader API\VB.NET
 \Barcode Reader API\C#\Advanced Conversion Options
 \Barcode Reader API\C#\Read Barcode From Uploaded File
@@ -100,6 +108,8 @@
 \Barcode Reader API\PowerShell\Read Barcode From Uploaded File
 \Barcode Reader API\PowerShell\Read Barcode From URL
 \Barcode Reader API\PowerShell\Read Barcode From URL Asynchronously
+\Barcode Reader API\Python\Read Barcode From Uploaded File
+\Barcode Reader API\Python\Read Barcode From URL
 \Barcode Reader API\VB.NET\Advanced Conversion Options
 \Barcode Reader API\VB.NET\Read Barcode From Uploaded File
 \Barcode Reader API\VB.NET\Read Barcode From URL
@@ -110,6 +120,7 @@
 \CSV To PDF API\JavaScript
 \CSV To PDF API\PHP
 \CSV To PDF API\PowerShell
+\CSV To PDF API\Python
 \CSV To PDF API\VB.NET
 \CSV To PDF API\C#\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\C#\Convert CSV To PDF From URL
@@ -128,6 +139,9 @@
 \CSV To PDF API\PowerShell\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\PowerShell\Convert CSV To PDF From URL
 \CSV To PDF API\PowerShell\Convert CSV To PDF From URL Asynchronously
+\CSV To PDF API\Python\Convert CSV To PDF From Uploaded File
+\CSV To PDF API\Python\Convert CSV To PDF From URL
+\CSV To PDF API\Python\Convert CSV To PDF From URL Asynchronously
 \CSV To PDF API\VB.NET\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\VB.NET\Convert CSV To PDF From URL
 \CSV To PDF API\VB.NET\Convert CSV To PDF From URL Asynchronously
@@ -137,6 +151,7 @@
 \DOC To PDF API\JavaScript
 \DOC To PDF API\PHP
 \DOC To PDF API\PowerShell
+\DOC To PDF API\Python
 \DOC To PDF API\VB.NET
 \DOC To PDF API\C#\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\C#\Convert DOC To PDF From URL
@@ -155,6 +170,9 @@
 \DOC To PDF API\PowerShell\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\PowerShell\Convert DOC To PDF From URL
 \DOC To PDF API\PowerShell\Convert DOC To PDF From URL Asynchronously
+\DOC To PDF API\Python\Convert DOC To PDF From Uploaded File
+\DOC To PDF API\Python\Convert DOC To PDF From URL
+\DOC To PDF API\Python\Convert DOC To PDF From URL Asynchronously
 \DOC To PDF API\VB.NET\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\VB.NET\Convert DOC To PDF From URL
 \DOC To PDF API\VB.NET\Convert DOC To PDF From URL Asynchronously
@@ -162,6 +180,7 @@
 \Document Parser API\Java
 \Document Parser API\JavaScript
 \Document Parser API\Powershell
+\Document Parser API\Python
 \Document Parser API\VB.NET
 \Document Parser API\C#\Parse From URL
 \Document Parser API\C#\Parse From URL Asynchronously
@@ -173,6 +192,8 @@
 \Document Parser API\JavaScript\Parse Uploaded File (Node.js)
 \Document Parser API\Powershell\Parse From Uploaded File
 \Document Parser API\Powershell\Parse From Url
+\Document Parser API\Python\Parse From Uploaded File
+\Document Parser API\Python\Parse From Url
 \Document Parser API\VB.NET\Parse From Url
 \Document Parser API\VB.NET\Parse Uploaded File
 \Excel To CSV API\JavaScript
@@ -193,6 +214,7 @@
 \HTML To PDF API\JavaScript
 \HTML To PDF API\PHP
 \HTML To PDF API\PowerShell
+\HTML To PDF API\Python
 \HTML To PDF API\VB.NET
 \HTML To PDF API\C#\Convert Web Page To PDF From Link
 \HTML To PDF API\C#\Convert Web Page To PDF From Link Asynchronously
@@ -210,6 +232,9 @@
 \HTML To PDF API\PowerShell\Convert Web Page To PDF From Link
 \HTML To PDF API\PowerShell\Convert Web Page To PDF From Link Asynchronously
 \HTML To PDF API\PowerShell\Generate PDF Invoice From HTML Template
+\HTML To PDF API\Python\Convert Web Page To PDF From Link
+\HTML To PDF API\Python\Convert Web Page To PDF From Link Asynchronously
+\HTML To PDF API\Python\Generate PDF Invoice From HTML Template
 \HTML To PDF API\VB.NET\Convert Web Page To PDF From URL
 \HTML To PDF API\VB.NET\Convert Web Page To PDF From URL Asynchronously
 \HTML To PDF API\VB.NET\Generate PDF Invoice From HTML Template
@@ -219,6 +244,7 @@
 \Image To PDF API\JavaScript
 \Image To PDF API\PHP
 \Image To PDF API\PowerShell
+\Image To PDF API\Python
 \Image To PDF API\VB.NET
 \Image To PDF API\C#\Convert Images To PDF From Uploaded Files
 \Image To PDF API\C#\Convert Images To PDF From URLs
@@ -233,6 +259,9 @@
 \Image To PDF API\PowerShell\Convert Images To PDF From Uploaded Files
 \Image To PDF API\PowerShell\Convert Images To PDF From URLs
 \Image To PDF API\PowerShell\Convert Images To PDF From URLs Asynchronously
+\Image To PDF API\Python\Convert Images To PDF From Uploaded Files
+\Image To PDF API\Python\Convert Images To PDF From URLs
+\Image To PDF API\Python\Convert Images To PDF From URLs Asynchronously
 \Image To PDF API\VB.NET\Convert Images To PDF From Uploaded Files
 \Image To PDF API\VB.NET\Convert Images To PDF From URLs
 \Image To PDF API\VB.NET\Convert Images To PDF From URLs Asynchronously
@@ -244,6 +273,7 @@
 \PDF Information API\JavaScript
 \PDF Information API\PHP
 \PDF Information API\PowerShell
+\PDF Information API\Python
 \PDF Information API\VB.NET
 \PDF Information API\C#\Get PDF Info From Uploaded File
 \PDF Information API\C#\Get PDF Info From URL
@@ -256,6 +286,8 @@
 \PDF Information API\PHP\Get PDF Info From Uploaded File
 \PDF Information API\PowerShell\Get PDF Info From Uploaded File
 \PDF Information API\PowerShell\Get PDF Info From URL
+\PDF Information API\Python\Get PDF Info From Uploaded File
+\PDF Information API\Python\Get PDF Info From URL
 \PDF Information API\VB.NET\Get PDF Info From Uploaded File
 \PDF Information API\VB.NET\Get PDF Info From URL
 \PDF Make Searchable API\C#
@@ -264,6 +296,7 @@
 \PDF Make Searchable API\JavaScript
 \PDF Make Searchable API\PHP
 \PDF Make Searchable API\PowerShell
+\PDF Make Searchable API\Python
 \PDF Make Searchable API\VB.NET
 \PDF Make Searchable API\C#\Advanced Conversion Options
 \PDF Make Searchable API\C#\Make Searchable PDF From Uploaded File
@@ -285,6 +318,9 @@
 \PDF Make Searchable API\PowerShell\Make Searchable PDF From Uploaded File
 \PDF Make Searchable API\PowerShell\Make Searchable PDF From URL
 \PDF Make Searchable API\PowerShell\Make Searchable PDF From URL Asynchronously
+\PDF Make Searchable API\Python\Make Searchable PDF From Uploaded File
+\PDF Make Searchable API\Python\Make Searchable PDF From URL
+\PDF Make Searchable API\Python\Make Searchable PDF From URL Asynchronously
 \PDF Make Searchable API\VB.NET\Advanced Conversion Options
 \PDF Make Searchable API\VB.NET\Make Searchable PDF From Uploaded File
 \PDF Make Searchable API\VB.NET\Make Searchable PDF From URL
@@ -295,6 +331,7 @@
 \PDF Merging API\JavaScript
 \PDF Merging API\PHP
 \PDF Merging API\PowerShell
+\PDF Merging API\Python
 \PDF Merging API\VB.NET
 \PDF Merging API\C#\Merge PDF Documents From Uploaded Files
 \PDF Merging API\C#\Merge PDF Documents From URLs
@@ -312,6 +349,8 @@
 \PDF Merging API\PowerShell\Merge PDF Documents From Uploaded Files
 \PDF Merging API\PowerShell\Merge PDF Documents From URLs
 \PDF Merging API\PowerShell\Merge PDF Documents From URLs Asynchronously
+\PDF Merging API\Python\Merge PDF Documents From Uploaded Files
+\PDF Merging API\Python\Merge PDF Documents From Uploaded Files Asynchronously
 \PDF Merging API\VB.NET\Merge PDF Documents From Uploaded Files
 \PDF Merging API\VB.NET\Merge PDF Documents From URLs
 \PDF Merging API\VB.NET\Merge PDF Documents From URLs Asynchronously
@@ -321,6 +360,7 @@
 \PDF Optimization API\JavaScript
 \PDF Optimization API\PHP
 \PDF Optimization API\PowerShell
+\PDF Optimization API\Python
 \PDF Optimization API\VB.NET
 \PDF Optimization API\C#\Optimize PDF From Uploaded File
 \PDF Optimization API\C#\Optimize PDF From URL
@@ -339,6 +379,9 @@
 \PDF Optimization API\PowerShell\Optimize PDF From Uploaded File
 \PDF Optimization API\PowerShell\Optimize PDF From URL
 \PDF Optimization API\PowerShell\Optimize PDF From URL Asynchronously
+\PDF Optimization API\Python\Optimize PDF From Uploaded File
+\PDF Optimization API\Python\Optimize PDF From URL
+\PDF Optimization API\Python\Optimize PDF From URL Asynchronously
 \PDF Optimization API\VB.NET\Optimize PDF From Uploaded File
 \PDF Optimization API\VB.NET\Optimize PDF From URL
 \PDF Optimization API\VB.NET\Optimize PDF From URL Asynchronously
@@ -348,6 +391,7 @@
 \PDF Splitting API\JavaScript
 \PDF Splitting API\PHP
 \PDF Splitting API\PowerShell
+\PDF Splitting API\Python
 \PDF Splitting API\VB.NET
 \PDF Splitting API\C#\Split PDF From Uploaded File
 \PDF Splitting API\C#\Split PDF From URL
@@ -366,6 +410,8 @@
 \PDF Splitting API\PowerShell\Split PDF From Uploaded File
 \PDF Splitting API\PowerShell\Split PDF From URL
 \PDF Splitting API\PowerShell\Split PDF From URL Asynchronously
+\PDF Splitting API\Python\Split PDF From Uploaded File
+\PDF Splitting API\Python\Split PDF From Uploaded File Asynchronously
 \PDF Splitting API\VB.NET\Split PDF From Uploaded File
 \PDF Splitting API\VB.NET\Split PDF From URL
 \PDF Splitting API\VB.NET\Split PDF From URL Asynchronously
@@ -373,6 +419,7 @@
 \PDF Text Search API\Java
 \PDF Text Search API\JavaScript
 \PDF Text Search API\PowerShell
+\PDF Text Search API\Python
 \PDF Text Search API\VB.NET
 \PDF Text Search API\C#\PDF Text Search from Uploaded File
 \PDF Text Search API\C#\PDF Text Search from Uploaded File Asynchronously
@@ -392,6 +439,8 @@
 \PDF Text Search API\PowerShell\PDF Text Search from Uploaded File Asynchronously
 \PDF Text Search API\PowerShell\PDF Text Search from URL
 \PDF Text Search API\PowerShell\PDF Text Search from URL Asynchronously
+\PDF Text Search API\Python\PDF Text Search from Uploaded File
+\PDF Text Search API\Python\PDF Text Search from Uploaded File Asynchronously
 \PDF Text Search API\VB.NET\PDF Text Search from Uploaded File
 \PDF Text Search API\VB.NET\PDF Text Search from Uploaded File Asynchronously
 \PDF Text Search API\VB.NET\PDF Text Search from URL
@@ -402,6 +451,7 @@
 \PDF To CSV API\JavaScript
 \PDF To CSV API\PHP
 \PDF To CSV API\PowerShell
+\PDF To CSV API\Python
 \PDF To CSV API\VB.NET
 \PDF To CSV API\C#\Advanced Conversion Options
 \PDF To CSV API\C#\Convert PDF To CSV From Uploaded File
@@ -426,6 +476,8 @@
 \PDF To CSV API\PowerShell\Convert PDF To CSV From Uploaded File
 \PDF To CSV API\PowerShell\Convert PDF To CSV From URL
 \PDF To CSV API\PowerShell\Convert PDF To CSV From URL Asynchronously
+\PDF To CSV API\Python\Convert PDF To CSV From Uploaded File
+\PDF To CSV API\Python\Convert PDF To CSV From Uploaded File Asynchronously
 \PDF To CSV API\VB.NET\Advanced Conversion Options
 \PDF To CSV API\VB.NET\Convert PDF To CSV From Uploaded File
 \PDF To CSV API\VB.NET\Convert PDF To CSV From URL
@@ -436,6 +488,7 @@
 \PDF To Excel API\JavaScript
 \PDF To Excel API\PHP
 \PDF To Excel API\PowerShell
+\PDF To Excel API\Python
 \PDF To Excel API\VB.NET
 \PDF To Excel API\C#\Advanced Conversion Options
 \PDF To Excel API\C#\Convert PDF To XLS From Uploaded File
@@ -475,6 +528,8 @@
 \PDF To Excel API\PowerShell\Convert PDF To XLSX From Uploaded File
 \PDF To Excel API\PowerShell\Convert PDF To XLSX From URL
 \PDF To Excel API\PowerShell\Convert PDF To XLSX From URL Asynchronously
+\PDF To Excel API\Python\Convert PDF To Excel From Uploaded File
+\PDF To Excel API\Python\Convert PDF To Excel From Uploaded File Asynchronously
 \PDF To Excel API\VB.NET\Advanced Conversion Options
 \PDF To Excel API\VB.NET\Convert PDF To XLS From Uploaded File
 \PDF To Excel API\VB.NET\Convert PDF To XLS From Uploaded File (WinForms)
@@ -489,6 +544,7 @@
 \PDF To HTML API\JavaScript
 \PDF To HTML API\PHP
 \PDF To HTML API\PowerShell
+\PDF To HTML API\Python
 \PDF To HTML API\VB.NET
 \PDF To HTML API\C#\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\C#\Convert PDF To HTML From URL
@@ -509,6 +565,8 @@
 \PDF To HTML API\PowerShell\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\PowerShell\Convert PDF To HTML From URL
 \PDF To HTML API\PowerShell\Convert PDF To HTML From URL Asynchronously
+\PDF To HTML API\Python\Convert PDF To HTML From Uploaded File
+\PDF To HTML API\Python\Convert PDF To HTML From Uploaded File Asynchronously
 \PDF To HTML API\VB.NET\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\VB.NET\Convert PDF To HTML From URL
 \PDF To HTML API\VB.NET\Convert PDF To HTML From URL Asynchronously
@@ -518,6 +576,7 @@
 \PDF To Image API\JavaScript
 \PDF To Image API\PHP
 \PDF To Image API\PowerShell
+\PDF To Image API\Python
 \PDF To Image API\VB.NET
 \PDF To Image API\C#\Convert PDF To JPEG From Uploaded File
 \PDF To Image API\C#\Convert PDF To JPEG From URL
@@ -566,6 +625,8 @@
 \PDF To Image API\PowerShell\Convert PDF To TIFF From Uploaded File
 \PDF To Image API\PowerShell\Convert PDF To TIFF From URL
 \PDF To Image API\PowerShell\Convert PDF To TIFF From URL Asynchronously
+\PDF To Image API\Python\Convert PDF To Image From Uploaded File
+\PDF To Image API\Python\Convert PDF To Image From Uploaded File Asynchronously
 \PDF To Image API\VB.NET\Convert PDF To JPEG From Uploaded File
 \PDF To Image API\VB.NET\Convert PDF To JPEG From URL
 \PDF To Image API\VB.NET\Convert PDF To JPEG From URL Asynchronously
@@ -581,6 +642,7 @@
 \PDF To JSON API\JavaScript
 \PDF To JSON API\PHP
 \PDF To JSON API\PowerShell
+\PDF To JSON API\Python
 \PDF To JSON API\VB.NET
 \PDF To JSON API\C#\Advanced Conversion Options
 \PDF To JSON API\C#\Convert PDF To JSON From Uploaded File
@@ -605,6 +667,8 @@
 \PDF To JSON API\PowerShell\Convert PDF To JSON From Uploaded File
 \PDF To JSON API\PowerShell\Convert PDF To JSON From URL
 \PDF To JSON API\PowerShell\Convert PDF To JSON From URL Asynchronously
+\PDF To JSON API\Python\Convert PDF To JSON From Uploaded File
+\PDF To JSON API\Python\Convert PDF To JSON From Uploaded File Asynchronously
 \PDF To JSON API\VB.NET\Advanced Conversion Options
 \PDF To JSON API\VB.NET\Convert PDF To JSON From Uploaded File
 \PDF To JSON API\VB.NET\Convert PDF To JSON From URL
@@ -615,6 +679,7 @@
 \PDF To Text API\JavaScript
 \PDF To Text API\PHP
 \PDF To Text API\PowerShell
+\PDF To Text API\Python
 \PDF To Text API\VB.NET
 \PDF To Text API\C#\Advanced Conversion Options
 \PDF To Text API\C#\Convert PDF To Text From Uploaded File
@@ -638,6 +703,8 @@
 \PDF To Text API\PowerShell\Convert PDF To Text From Uploaded File
 \PDF To Text API\PowerShell\Convert PDF To Text From URL
 \PDF To Text API\PowerShell\Convert PDF To Text From URL Asynchronously
+\PDF To Text API\Python\Convert PDF To Text From Uploaded File
+\PDF To Text API\Python\Convert PDF To Text From Uploaded File Asynchronously
 \PDF To Text API\VB.NET\Advanced Conversion Options
 \PDF To Text API\VB.NET\Convert PDF To Text From Uploaded File
 \PDF To Text API\VB.NET\Convert PDF To Text From URL
@@ -648,6 +715,7 @@
 \PDF To XML API\JavaScript
 \PDF To XML API\PHP
 \PDF To XML API\PowerShell
+\PDF To XML API\Python
 \PDF To XML API\VB.NET
 \PDF To XML API\C#\Advanced Conversion Options
 \PDF To XML API\C#\Convert PDF To XML From Uploaded File
@@ -671,6 +739,8 @@
 \PDF To XML API\PowerShell\Convert PDF To XML From Uploaded File
 \PDF To XML API\PowerShell\Convert PDF To XML From URL
 \PDF To XML API\PowerShell\Convert PDF To XML From URL Asynchronously
+\PDF To XML API\Python\Convert PDF To XML From Uploaded File
+\PDF To XML API\Python\Convert PDF To XML From Uploaded File Asynchronously
 \PDF To XML API\VB.NET\Advanced Conversion Options
 \PDF To XML API\VB.NET\Convert PDF To XML From Uploaded File
 \PDF To XML API\VB.NET\Convert PDF To XML From URL
