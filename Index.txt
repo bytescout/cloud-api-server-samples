@@ -119,6 +119,7 @@
 \Barcode Reader API\PowerShell
 \Barcode Reader API\Python
 \Barcode Reader API\VB.NET
+\Barcode Reader API\zzz_Not Recommended
 \Barcode Reader API\C#\Advanced Conversion Options
 \Barcode Reader API\C#\Async file upload and async barcode reading
 \Barcode Reader API\C#\Async File Uploading
@@ -130,14 +131,11 @@
 \Barcode Reader API\C#\Read QR Code
 \Barcode Reader API\cURL\Advanced Conversation Options
 \Barcode Reader API\cURL\Barcode Reader
-\Barcode Reader API\cURL\Read Barcode from File
 \Barcode Reader API\cURL\Read Barcode From URL
 \Barcode Reader API\Java\Advanced Conversation Options
 \Barcode Reader API\Java\Read Barcode From Uploaded File
 \Barcode Reader API\Java\Read Barcode From URL
 \Barcode Reader API\JavaScript\Advanced Conversion Options
-\Barcode Reader API\JavaScript\Read Barcode From File (Node.js)
-\Barcode Reader API\JavaScript\Read Barcode From File (Node.js) - Async Api
 \Barcode Reader API\JavaScript\Read Barcode From Uploaded File (Node.js)
 \Barcode Reader API\JavaScript\Read Barcode From Uploaded File (Node.js) - Async Api
 \Barcode Reader API\JavaScript\Read Barcode From URL (Node.js)
@@ -160,6 +158,11 @@
 \Barcode Reader API\VB.NET\Read Code 128
 \Barcode Reader API\VB.NET\Read EAN 13
 \Barcode Reader API\VB.NET\Read QR Code
+\Barcode Reader API\zzz_Not Recommended\cURL
+\Barcode Reader API\zzz_Not Recommended\JavaScript
+\Barcode Reader API\zzz_Not Recommended\cURL\Read Barcode from File
+\Barcode Reader API\zzz_Not Recommended\JavaScript\Read Barcode From File (Node.js)
+\Barcode Reader API\zzz_Not Recommended\JavaScript\Read Barcode From File (Node.js) - Async Api
 \CSV To PDF API\C#
 \CSV To PDF API\cURL
 \CSV To PDF API\Java
@@ -168,6 +171,7 @@
 \CSV To PDF API\PowerShell
 \CSV To PDF API\Python
 \CSV To PDF API\VB.NET
+\CSV To PDF API\zzz_Not Recommended
 \CSV To PDF API\C#\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\C#\Convert CSV To PDF From URL
 \CSV To PDF API\C#\Convert CSV To PDF From URL Asynchronously
@@ -175,8 +179,6 @@
 \CSV To PDF API\cURL\PDF from CSV (CSV to PDF)
 \CSV To PDF API\Java\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\Java\Convert CSV To PDF From URL
-\CSV To PDF API\JavaScript\Convert CSV To PDF From File (Node.js)
-\CSV To PDF API\JavaScript\Convert CSV To PDF From File (Node.js) - Async API
 \CSV To PDF API\JavaScript\Convert CSV To PDF From Uploaded File (Node.js)
 \CSV To PDF API\JavaScript\Convert CSV To PDF From Uploaded File (Node.js) - Async API
 \CSV To PDF API\JavaScript\Convert CSV To PDF From URL (Node.js)
@@ -192,6 +194,9 @@
 \CSV To PDF API\VB.NET\Convert CSV To PDF From Uploaded File
 \CSV To PDF API\VB.NET\Convert CSV To PDF From URL
 \CSV To PDF API\VB.NET\Convert CSV To PDF From URL Asynchronously
+\CSV To PDF API\zzz_Not Recommended\JavaScript
+\CSV To PDF API\zzz_Not Recommended\JavaScript\Convert CSV To PDF From File (Node.js)
+\CSV To PDF API\zzz_Not Recommended\JavaScript\Convert CSV To PDF From File (Node.js) - Async API
 \Delete Text From PDF\C#
 \Delete Text From PDF\cURL
 \Delete Text From PDF\Delphi
@@ -201,6 +206,7 @@
 \Delete Text From PDF\PowerShell
 \Delete Text From PDF\Python
 \Delete Text From PDF\VB.NET
+\Delete Text From PDF\zzz_Not Recommended
 \Delete Text From PDF\C#\Delete PDF Text From Uploaded File
 \Delete Text From PDF\C#\Delete PDF Text From URL
 \Delete Text From PDF\C#\Delete PDF Text From URL Asynchronously
@@ -209,8 +215,6 @@
 \Delete Text From PDF\Delphi\Delete PDF Text From URL
 \Delete Text From PDF\Java\Delete PDF Text From Uploaded File
 \Delete Text From PDF\Java\Delete PDF Text From URL
-\Delete Text From PDF\JavaScript\Delete PDF Text From File (Node.js)
-\Delete Text From PDF\JavaScript\Delete PDF Text From File (Node.js) - Async API
 \Delete Text From PDF\JavaScript\Delete PDF Text From Uploaded File (Node.js)
 \Delete Text From PDF\JavaScript\Delete PDF Text From Uploaded File (Node.js) - Async API
 \Delete Text From PDF\JavaScript\Delete PDF Text From URL (Node.js)
@@ -226,6 +230,9 @@
 \Delete Text From PDF\VB.NET\Delete PDF Text From Uploaded File
 \Delete Text From PDF\VB.NET\Delete PDF Text From URL
 \Delete Text From PDF\VB.NET\Delete PDF Text From URL Asynchronously
+\Delete Text From PDF\zzz_Not Recommended\JavaScript
+\Delete Text From PDF\zzz_Not Recommended\JavaScript\Delete PDF Text From File (Node.js)
+\Delete Text From PDF\zzz_Not Recommended\JavaScript\Delete PDF Text From File (Node.js) - Async API
 \DOC To PDF API\C#
 \DOC To PDF API\cURL
 \DOC To PDF API\Delphi
@@ -235,6 +242,7 @@
 \DOC To PDF API\PowerShell
 \DOC To PDF API\Python
 \DOC To PDF API\VB.NET
+\DOC To PDF API\zzz_Not Recommended
 \DOC To PDF API\C#\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\C#\Convert DOC To PDF From URL
 \DOC To PDF API\C#\Convert DOC To PDF From URL Asynchronously
@@ -243,8 +251,6 @@
 \DOC To PDF API\Delphi\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\Java\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\Java\Convert DOC To PDF From URL
-\DOC To PDF API\JavaScript\Convert DOC To PDF From File (Node.js)
-\DOC To PDF API\JavaScript\Convert DOC To PDF From File (Node.js) - Async API
 \DOC To PDF API\JavaScript\Convert DOC To PDF From Uploaded File (Node.js)
 \DOC To PDF API\JavaScript\Convert DOC To PDF From Uploaded File (Node.js) - Async API
 \DOC To PDF API\JavaScript\Convert DOC To PDF From URL (Node.js)
@@ -260,6 +266,9 @@
 \DOC To PDF API\VB.NET\Convert DOC To PDF From Uploaded File
 \DOC To PDF API\VB.NET\Convert DOC To PDF From URL
 \DOC To PDF API\VB.NET\Convert DOC To PDF From URL Asynchronously
+\DOC To PDF API\zzz_Not Recommended\JavaScript
+\DOC To PDF API\zzz_Not Recommended\JavaScript\Convert DOC To PDF From File (Node.js)
+\DOC To PDF API\zzz_Not Recommended\JavaScript\Convert DOC To PDF From File (Node.js) - Async API
 \Document Parser API\C#
 \Document Parser API\cURL
 \Document Parser API\Java
@@ -494,13 +503,12 @@
 \Invoice Parser API\PowerShell
 \Invoice Parser API\Python
 \Invoice Parser API\VB.NET
+\Invoice Parser API\zzz_Not Recommended
 \Invoice Parser API\C#\Get Invoice Info From Uploaded File
 \Invoice Parser API\C#\Get Invoice Info From URL
-\Invoice Parser API\cURL\Get Invoice Info from File
 \Invoice Parser API\cURL\Get Invoice Info From URL
 \Invoice Parser API\Java\Get Invoice Info From Uploaded File
 \Invoice Parser API\Java\Get Invoice Info From URL
-\Invoice Parser API\JavaScript\Get Invoice Info From File (Node.js)
 \Invoice Parser API\JavaScript\Get Invoice Info From Uploaded File (Node.js)
 \Invoice Parser API\JavaScript\Get Invoice Info From URL (Node.js)
 \Invoice Parser API\PHP\Get Invoice Info From Uploaded File
@@ -510,6 +518,10 @@
 \Invoice Parser API\Python\Get Invoice Info From URL
 \Invoice Parser API\VB.NET\Get Invoice Info From Uploaded File
 \Invoice Parser API\VB.NET\Get Invoice Info From URL
+\Invoice Parser API\zzz_Not Recommended\cURL
+\Invoice Parser API\zzz_Not Recommended\JavaScript
+\Invoice Parser API\zzz_Not Recommended\cURL\Get Invoice Info from File
+\Invoice Parser API\zzz_Not Recommended\JavaScript\Get Invoice Info From File (Node.js)
 \Manage Background Jobs\C#
 \Manage Background Jobs\cURL
 \Manage Background Jobs\Java
@@ -583,13 +595,13 @@
 \PDF Information API\PowerShell
 \PDF Information API\Python
 \PDF Information API\VB.NET
+\PDF Information API\zzz_Not Recommended
 \PDF Information API\C#\Get PDF Info From Uploaded File
 \PDF Information API\C#\Get PDF Info From URL
 \PDF Information API\cURL\Get PDF Info From URL
 \PDF Information API\cURL\PDF Info Reader
 \PDF Information API\Java\Get PDF Info From Uploaded File
 \PDF Information API\Java\Get PDF Info From URL
-\PDF Information API\JavaScript\Get PDF Info From File (Node.js)
 \PDF Information API\JavaScript\Get PDF Info From Uploaded File (Node.js)
 \PDF Information API\JavaScript\Get PDF Info From URL (Node.js)
 \PDF Information API\PHP\Get PDF Info From Uploaded File
@@ -599,6 +611,8 @@
 \PDF Information API\Python\Get PDF Info From URL
 \PDF Information API\VB.NET\Get PDF Info From Uploaded File
 \PDF Information API\VB.NET\Get PDF Info From URL
+\PDF Information API\zzz_Not Recommended\JavaScript
+\PDF Information API\zzz_Not Recommended\JavaScript\Get PDF Info From File (Node.js)
 \PDF Make Searchable API\C#
 \PDF Make Searchable API\cURL
 \PDF Make Searchable API\Java
@@ -607,6 +621,7 @@
 \PDF Make Searchable API\PowerShell
 \PDF Make Searchable API\Python
 \PDF Make Searchable API\VB.NET
+\PDF Make Searchable API\zzz_Not Recommended
 \PDF Make Searchable API\C#\Advanced Conversion Options
 \PDF Make Searchable API\C#\Make Searchable PDF From Uploaded File
 \PDF Make Searchable API\C#\Make Searchable PDF From URL
@@ -617,8 +632,6 @@
 \PDF Make Searchable API\Java\Make Searchable PDF From Uploaded File
 \PDF Make Searchable API\Java\Make Searchable PDF From URL
 \PDF Make Searchable API\JavaScript\Advanced Conversion Options
-\PDF Make Searchable API\JavaScript\Make Searchable PDF From File (Node.js)
-\PDF Make Searchable API\JavaScript\Make Searchable PDF From File (Node.js) - Async API
 \PDF Make Searchable API\JavaScript\Make Searchable PDF From Uploaded File (Node.js)
 \PDF Make Searchable API\JavaScript\Make Searchable PDF From Uploaded File (Node.js) - Async API
 \PDF Make Searchable API\JavaScript\Make Searchable PDF From URL (Node.js)
@@ -637,6 +650,9 @@
 \PDF Make Searchable API\VB.NET\Make Searchable PDF From Uploaded File
 \PDF Make Searchable API\VB.NET\Make Searchable PDF From URL
 \PDF Make Searchable API\VB.NET\Make Searchable PDF From URL Asynchronously
+\PDF Make Searchable API\zzz_Not Recommended\JavaScript
+\PDF Make Searchable API\zzz_Not Recommended\JavaScript\Make Searchable PDF From File (Node.js)
+\PDF Make Searchable API\zzz_Not Recommended\JavaScript\Make Searchable PDF From File (Node.js) - Async API
 \PDF Merging API\C#
 \PDF Merging API\cURL
 \PDF Merging API\Delphi
@@ -679,6 +695,7 @@
 \PDF Optimization API\PowerShell
 \PDF Optimization API\Python
 \PDF Optimization API\VB.NET
+\PDF Optimization API\zzz_Not Recommended
 \PDF Optimization API\C#\Optimize PDF From Uploaded File
 \PDF Optimization API\C#\Optimize PDF From URL
 \PDF Optimization API\C#\Optimize PDF From URL Asynchronously
@@ -686,8 +703,6 @@
 \PDF Optimization API\cURL\PDF Optimize
 \PDF Optimization API\Java\Optimize PDF From Uploaded File
 \PDF Optimization API\Java\Optimize PDF From URL
-\PDF Optimization API\JavaScript\Optimize PDF From File (Node.js)
-\PDF Optimization API\JavaScript\Optimize PDF From File (Node.js) - Async API
 \PDF Optimization API\JavaScript\Optimize PDF From Uploaded File (Node.js)
 \PDF Optimization API\JavaScript\Optimize PDF From Uploaded File (Node.js) - Async API
 \PDF Optimization API\JavaScript\Optimize PDF From URL (Node.js)
@@ -703,6 +718,9 @@
 \PDF Optimization API\VB.NET\Optimize PDF From Uploaded File
 \PDF Optimization API\VB.NET\Optimize PDF From URL
 \PDF Optimization API\VB.NET\Optimize PDF From URL Asynchronously
+\PDF Optimization API\zzz_Not Recommended\JavaScript
+\PDF Optimization API\zzz_Not Recommended\JavaScript\Optimize PDF From File (Node.js)
+\PDF Optimization API\zzz_Not Recommended\JavaScript\Optimize PDF From File (Node.js) - Async API
 \PDF Password And Security\C#
 \PDF Password And Security\cURL
 \PDF Password And Security\Java
@@ -735,17 +753,15 @@
 \PDF Splitting API\PowerShell
 \PDF Splitting API\Python
 \PDF Splitting API\VB.NET
+\PDF Splitting API\zzz_Not Recommended
 \PDF Splitting API\C#\Async file upload and async Split PDF
 \PDF Splitting API\C#\Split PDF From Uploaded File
 \PDF Splitting API\C#\Split PDF From URL
 \PDF Splitting API\C#\Split PDF From URL Asynchronously
 \PDF Splitting API\cURL\PDF Split
-\PDF Splitting API\cURL\Split PDF from File
 \PDF Splitting API\cURL\Split PDF From URL
 \PDF Splitting API\Java\Split PDF From Uploaded File
 \PDF Splitting API\Java\Split PDF From URL
-\PDF Splitting API\JavaScript\Split PDF From File (Node.js)
-\PDF Splitting API\JavaScript\Split PDF From File (Node.js) - Async API
 \PDF Splitting API\JavaScript\Split PDF From Uploaded File (Node.js)
 \PDF Splitting API\JavaScript\Split PDF From Uploaded File (Node.js) - Async API
 \PDF Splitting API\JavaScript\Split PDF From URL (Node.js)
@@ -761,6 +777,11 @@
 \PDF Splitting API\VB.NET\Split PDF From Uploaded File
 \PDF Splitting API\VB.NET\Split PDF From URL
 \PDF Splitting API\VB.NET\Split PDF From URL Asynchronously
+\PDF Splitting API\zzz_Not Recommended\cURL
+\PDF Splitting API\zzz_Not Recommended\JavaScript
+\PDF Splitting API\zzz_Not Recommended\cURL\Split PDF from File
+\PDF Splitting API\zzz_Not Recommended\JavaScript\Split PDF From File (Node.js)
+\PDF Splitting API\zzz_Not Recommended\JavaScript\Split PDF From File (Node.js) - Async API
 \PDF Text Search API\C#
 \PDF Text Search API\cURL
 \PDF Text Search API\Java
@@ -768,6 +789,7 @@
 \PDF Text Search API\PowerShell
 \PDF Text Search API\Python
 \PDF Text Search API\VB.NET
+\PDF Text Search API\zzz_Not Recommended
 \PDF Text Search API\C#\Async file upload and async Search Text
 \PDF Text Search API\C#\PDF Text Search from Uploaded File
 \PDF Text Search API\C#\PDF Text Search from Uploaded File Asynchronously
@@ -778,8 +800,6 @@
 \PDF Text Search API\Java\PDF Text Search from Uploaded File Asynchronously
 \PDF Text Search API\Java\PDF Text Search from URL
 \PDF Text Search API\Java\PDF Text Search from URL Asynchronously
-\PDF Text Search API\JavaScript\PDF Text Search from File (Node js)
-\PDF Text Search API\JavaScript\PDF Text Search from File (Node js) - Async API
 \PDF Text Search API\JavaScript\PDF Text Search from Uploaded File (Node js)
 \PDF Text Search API\JavaScript\PDF Text Search from Uploaded File (Node js) - Async API
 \PDF Text Search API\JavaScript\PDF Text Search from URL (Node js)
@@ -795,6 +815,9 @@
 \PDF Text Search API\VB.NET\PDF Text Search from Uploaded File Asynchronously
 \PDF Text Search API\VB.NET\PDF Text Search from URL
 \PDF Text Search API\VB.NET\PDF Text Search from URL Asynchronously
+\PDF Text Search API\zzz_Not Recommended\JavaScript
+\PDF Text Search API\zzz_Not Recommended\JavaScript\PDF Text Search from File (Node js)
+\PDF Text Search API\zzz_Not Recommended\JavaScript\PDF Text Search from File (Node js) - Async API
 \PDF To CSV API\C#
 \PDF To CSV API\cURL
 \PDF To CSV API\Java
@@ -803,6 +826,7 @@
 \PDF To CSV API\PowerShell
 \PDF To CSV API\Python
 \PDF To CSV API\VB.NET
+\PDF To CSV API\zzz_Not Recommended
 \PDF To CSV API\C#\Advanced Conversion Options
 \PDF To CSV API\C#\Advanced Conversion Options With Rotated Input
 \PDF To CSV API\C#\Async file upload and async PDF to CSV
@@ -811,7 +835,6 @@
 \PDF To CSV API\C#\Convert PDF To CSV From URL Asynchronously
 \PDF To CSV API\cURL\Advanced Conversion Options
 \PDF To CSV API\cURL\Advanced Conversion Options With Rotated Input
-\PDF To CSV API\cURL\Convert PDF to CSV from File
 \PDF To CSV API\cURL\Convert PDF To CSV From URL
 \PDF To CSV API\cURL\PDF to CSV
 \PDF To CSV API\cURL\PDF to CSV - Custom Seperator
@@ -822,8 +845,6 @@
 \PDF To CSV API\Java\Convert PDF To CSV From URL
 \PDF To CSV API\JavaScript\Advanced Conversion Options
 \PDF To CSV API\JavaScript\Advanced Conversion Options With Rotated Input
-\PDF To CSV API\JavaScript\Convert PDF To CSV From File (Node.js)
-\PDF To CSV API\JavaScript\Convert PDF To CSV From File (Node.js) - Async API
 \PDF To CSV API\JavaScript\Convert PDF To CSV From Uploaded File (Node.js)
 \PDF To CSV API\JavaScript\Convert PDF To CSV From Uploaded File (Node.js) - Async API
 \PDF To CSV API\JavaScript\Convert PDF To CSV From URL (Node.js)
@@ -847,6 +868,11 @@
 \PDF To CSV API\VB.NET\Convert PDF To CSV From Uploaded File
 \PDF To CSV API\VB.NET\Convert PDF To CSV From URL
 \PDF To CSV API\VB.NET\Convert PDF To CSV From URL Asynchronously
+\PDF To CSV API\zzz_Not Recommended\cURL
+\PDF To CSV API\zzz_Not Recommended\JavaScript
+\PDF To CSV API\zzz_Not Recommended\cURL\Convert PDF to CSV from File
+\PDF To CSV API\zzz_Not Recommended\JavaScript\Convert PDF To CSV From File (Node.js)
+\PDF To CSV API\zzz_Not Recommended\JavaScript\Convert PDF To CSV From File (Node.js) - Async API
 \PDF To Excel API\C#
 \PDF To Excel API\cURL
 \PDF To Excel API\Java
@@ -855,6 +881,7 @@
 \PDF To Excel API\PowerShell
 \PDF To Excel API\Python
 \PDF To Excel API\VB.NET
+\PDF To Excel API\zzz_Not Recommended
 \PDF To Excel API\C#\Advanced Conversion Options
 \PDF To Excel API\C#\Advanced Conversion Options With Rotated Input
 \PDF To Excel API\C#\Convert PDF To XLS From Uploaded File
@@ -876,14 +903,10 @@
 \PDF To Excel API\Java\Convert PDF To XLSX From URL
 \PDF To Excel API\JavaScript\Advanced Conversion Options
 \PDF To Excel API\JavaScript\Advanced Conversion Options With Rotated Input
-\PDF To Excel API\JavaScript\Convert PDF To XLS From File (Node.js)
-\PDF To Excel API\JavaScript\Convert PDF To XLS From File (Node.js) - Async API
 \PDF To Excel API\JavaScript\Convert PDF To XLS From Uploaded File (Node.js)
 \PDF To Excel API\JavaScript\Convert PDF To XLS From Uploaded File (Node.js) - Async API
 \PDF To Excel API\JavaScript\Convert PDF To XLS From URL (Node.js)
 \PDF To Excel API\JavaScript\Convert PDF To XLS From URL (Node.js) - Async API
-\PDF To Excel API\JavaScript\Convert PDF To XLSX From File (Node.js)
-\PDF To Excel API\JavaScript\Convert PDF To XLSX From File (Node.js) - Async API
 \PDF To Excel API\JavaScript\Convert PDF To XLSX From Uploaded File (Node.js)
 \PDF To Excel API\JavaScript\Convert PDF To XLSX From Uploaded File (Node.js) - Async API
 \PDF To Excel API\JavaScript\Convert PDF To XLSX From URL (Node.js)
@@ -913,6 +936,11 @@
 \PDF To Excel API\VB.NET\Convert PDF To XLSX From Uploaded File
 \PDF To Excel API\VB.NET\Convert PDF To XLSX From URL
 \PDF To Excel API\VB.NET\Convert PDF To XLSX From URL Asynchronously
+\PDF To Excel API\zzz_Not Recommended\JavaScript
+\PDF To Excel API\zzz_Not Recommended\JavaScript\Convert PDF To XLS From File (Node.js)
+\PDF To Excel API\zzz_Not Recommended\JavaScript\Convert PDF To XLS From File (Node.js) - Async API
+\PDF To Excel API\zzz_Not Recommended\JavaScript\Convert PDF To XLSX From File (Node.js)
+\PDF To Excel API\zzz_Not Recommended\JavaScript\Convert PDF To XLSX From File (Node.js) - Async API
 \PDF To HTML API\C#
 \PDF To HTML API\cURL
 \PDF To HTML API\Java
@@ -921,6 +949,7 @@
 \PDF To HTML API\PowerShell
 \PDF To HTML API\Python
 \PDF To HTML API\VB.NET
+\PDF To HTML API\zzz_Not Recommended
 \PDF To HTML API\C#\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\C#\Convert PDF To HTML From URL
 \PDF To HTML API\C#\Convert PDF To HTML From URL Asynchronously
@@ -929,8 +958,6 @@
 \PDF To HTML API\cURL\Convert PDF to HTML With OCR
 \PDF To HTML API\Java\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\Java\Convert PDF To HTML From URL
-\PDF To HTML API\JavaScript\Convert PDF To HTML From File (Node.js)
-\PDF To HTML API\JavaScript\Convert PDF To HTML From File (Node.js) - Async API
 \PDF To HTML API\JavaScript\Convert PDF To HTML From Uploaded File (Node.js)
 \PDF To HTML API\JavaScript\Convert PDF To HTML From Uploaded File (Node.js) - Async API
 \PDF To HTML API\JavaScript\Convert PDF To HTML From URL (Node.js)
@@ -947,6 +974,9 @@
 \PDF To HTML API\VB.NET\Convert PDF To HTML From Uploaded File
 \PDF To HTML API\VB.NET\Convert PDF To HTML From URL
 \PDF To HTML API\VB.NET\Convert PDF To HTML From URL Asynchronously
+\PDF To HTML API\zzz_Not Recommended\JavaScript
+\PDF To HTML API\zzz_Not Recommended\JavaScript\Convert PDF To HTML From File (Node.js)
+\PDF To HTML API\zzz_Not Recommended\JavaScript\Convert PDF To HTML From File (Node.js) - Async API
 \PDF To Image API\C#
 \PDF To Image API\cURL
 \PDF To Image API\Java
@@ -955,6 +985,7 @@
 \PDF To Image API\PowerShell
 \PDF To Image API\Python
 \PDF To Image API\VB.NET
+\PDF To Image API\zzz_Not Recommended
 \PDF To Image API\C#\Advanced JPEG Conversion Options
 \PDF To Image API\C#\Advanced PNG Conversion Options
 \PDF To Image API\C#\Advanced TIFF Conversion Options
@@ -970,11 +1001,8 @@
 \PDF To Image API\cURL\Advanced JPEG Conversion Options
 \PDF To Image API\cURL\Advanced PNG Conversion Options
 \PDF To Image API\cURL\Advanced TIFF Conversion Options
-\PDF To Image API\cURL\Convert PDF to JPEG from File
 \PDF To Image API\cURL\Convert PDF To JPEG From URL
-\PDF To Image API\cURL\Convert PDF to PNG from File
 \PDF To Image API\cURL\Convert PDF To PNG From URL
-\PDF To Image API\cURL\Convert PDF to TIFF from File
 \PDF To Image API\cURL\Convert PDF To TIFF From URL
 \PDF To Image API\cURL\PDF To JPEG
 \PDF To Image API\cURL\PDF to PNG
@@ -991,20 +1019,14 @@
 \PDF To Image API\JavaScript\Advanced JPEG Conversion Options
 \PDF To Image API\JavaScript\Advanced PNG Conversion Options
 \PDF To Image API\JavaScript\Advanced TIFF Conversion Options
-\PDF To Image API\JavaScript\Convert PDF To JPEG From File (Node.js)
-\PDF To Image API\JavaScript\Convert PDF To JPEG From File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To JPEG From Uploaded File (Node.js)
 \PDF To Image API\JavaScript\Convert PDF To JPEG From Uploaded File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To JPEG From URL (Node.js)
 \PDF To Image API\JavaScript\Convert PDF To JPEG From URL (Node.js) - Async API
-\PDF To Image API\JavaScript\Convert PDF To PNG From File (Node.js)
-\PDF To Image API\JavaScript\Convert PDF To PNG From File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To PNG From Uploaded File (Node.js)
 \PDF To Image API\JavaScript\Convert PDF To PNG From Uploaded File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To PNG From URL (Node.js)
 \PDF To Image API\JavaScript\Convert PDF To PNG From URL (Node.js) - Async API
-\PDF To Image API\JavaScript\Convert PDF To TIFF From File (Node.js)
-\PDF To Image API\JavaScript\Convert PDF To TIFF From File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To TIFF From Uploaded File (Node.js)
 \PDF To Image API\JavaScript\Convert PDF To TIFF From Uploaded File (Node.js) - Async API
 \PDF To Image API\JavaScript\Convert PDF To TIFF From URL (Node.js)
@@ -1038,6 +1060,17 @@
 \PDF To Image API\VB.NET\Convert PDF To TIFF From Uploaded File
 \PDF To Image API\VB.NET\Convert PDF To TIFF From URL
 \PDF To Image API\VB.NET\Convert PDF To TIFF From URL Asynchronously
+\PDF To Image API\zzz_Not Recommended\cURL
+\PDF To Image API\zzz_Not Recommended\JavaScript
+\PDF To Image API\zzz_Not Recommended\cURL\Convert PDF to JPEG from File
+\PDF To Image API\zzz_Not Recommended\cURL\Convert PDF to PNG from File
+\PDF To Image API\zzz_Not Recommended\cURL\Convert PDF to TIFF from File
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To JPEG From File (Node.js)
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To JPEG From File (Node.js) - Async API
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To PNG From File (Node.js)
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To PNG From File (Node.js) - Async API
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To TIFF From File (Node.js)
+\PDF To Image API\zzz_Not Recommended\JavaScript\Convert PDF To TIFF From File (Node.js) - Async API
 \PDF To JSON API\C#
 \PDF To JSON API\cURL
 \PDF To JSON API\Java
@@ -1046,6 +1079,7 @@
 \PDF To JSON API\PowerShell
 \PDF To JSON API\Python
 \PDF To JSON API\VB.NET
+\PDF To JSON API\zzz_Not Recommended
 \PDF To JSON API\C#\Advanced Conversion Options
 \PDF To JSON API\C#\Advanced Conversion Options With Rotated Input
 \PDF To JSON API\C#\Convert PDF To JSON From Uploaded File
@@ -1061,8 +1095,6 @@
 \PDF To JSON API\Java\Convert PDF To JSON From URL
 \PDF To JSON API\JavaScript\Advanced Conversion Options
 \PDF To JSON API\JavaScript\Advanced Conversion Options With Rotated Input
-\PDF To JSON API\JavaScript\Convert PDF To JSON From File (Node.js)
-\PDF To JSON API\JavaScript\Convert PDF To JSON From File (Node.js) - Async API
 \PDF To JSON API\JavaScript\Convert PDF To JSON From Uploaded File (Node.js)
 \PDF To JSON API\JavaScript\Convert PDF To JSON From Uploaded File (Node.js) - Async API
 \PDF To JSON API\JavaScript\Convert PDF To JSON From URL (Node.js)
@@ -1078,13 +1110,17 @@
 \PDF To JSON API\PowerShell\Convert PDF To JSON From URL Asynchronously
 \PDF To JSON API\Python\Advanced Conversion Options
 \PDF To JSON API\Python\Advanced Conversion Options With Rotated Input
-\PDF To JSON API\Python\Convert PDF To JSON From Uploaded File
 \PDF To JSON API\Python\Convert PDF To JSON From Uploaded File Asynchronously
 \PDF To JSON API\VB.NET\Advanced Conversion Options
 \PDF To JSON API\VB.NET\Advanced Conversion Options With Rotated Input
 \PDF To JSON API\VB.NET\Convert PDF To JSON From Uploaded File
 \PDF To JSON API\VB.NET\Convert PDF To JSON From URL
 \PDF To JSON API\VB.NET\Convert PDF To JSON From URL Asynchronously
+\PDF To JSON API\zzz_Not Recommended\JavaScript
+\PDF To JSON API\zzz_Not Recommended\Python
+\PDF To JSON API\zzz_Not Recommended\JavaScript\Convert PDF To JSON From File (Node.js)
+\PDF To JSON API\zzz_Not Recommended\JavaScript\Convert PDF To JSON From File (Node.js) - Async API
+\PDF To JSON API\zzz_Not Recommended\Python\Convert PDF To JSON From Uploaded File
 \PDF To Text API\C#
 \PDF To Text API\cURL
 \PDF To Text API\Java
@@ -1093,6 +1129,7 @@
 \PDF To Text API\PowerShell
 \PDF To Text API\Python
 \PDF To Text API\VB.NET
+\PDF To Text API\zzz_Not Recommended
 \PDF To Text API\C#\Advanced Conversion Options
 \PDF To Text API\C#\Advanced Conversion Options With Rotated Input
 \PDF To Text API\C#\Async file upload and async PDF to Text
@@ -1107,8 +1144,6 @@
 \PDF To Text API\Java\Convert PDF To Text From URL
 \PDF To Text API\JavaScript\Advanced Conversion Options
 \PDF To Text API\JavaScript\Advanced Conversion Options With Rotated Input
-\PDF To Text API\JavaScript\Convert PDF To Text From File (Node.js)
-\PDF To Text API\JavaScript\Convert PDF To Text From File (Node.js) - Async API
 \PDF To Text API\JavaScript\Convert PDF To Text From Uploaded File (Node.js)
 \PDF To Text API\JavaScript\Convert PDF To Text From Uploaded File (Node.js) - Async API
 \PDF To Text API\JavaScript\Convert PDF To Text From URL (Node.js)
@@ -1132,6 +1167,9 @@
 \PDF To Text API\VB.NET\Convert PDF To Text From Uploaded File
 \PDF To Text API\VB.NET\Convert PDF To Text From URL
 \PDF To Text API\VB.NET\Convert PDF To Text From URL Asynchronously
+\PDF To Text API\zzz_Not Recommended\JavaScript
+\PDF To Text API\zzz_Not Recommended\JavaScript\Convert PDF To Text From File (Node.js)
+\PDF To Text API\zzz_Not Recommended\JavaScript\Convert PDF To Text From File (Node.js) - Async API
 \PDF To XML API\C#
 \PDF To XML API\cURL
 \PDF To XML API\Java
@@ -1140,6 +1178,7 @@
 \PDF To XML API\PowerShell
 \PDF To XML API\Python
 \PDF To XML API\VB.NET
+\PDF To XML API\zzz_Not Recommended
 \PDF To XML API\C#\Advanced Conversion Options
 \PDF To XML API\C#\Advanced Conversion Options With Rotated Input
 \PDF To XML API\C#\Convert PDF To XML From Uploaded File
@@ -1153,8 +1192,6 @@
 \PDF To XML API\Java\Convert PDF To XML From URL
 \PDF To XML API\JavaScript\Advanced Conversion Options
 \PDF To XML API\JavaScript\Advanced Conversion Options With Rotated Input
-\PDF To XML API\JavaScript\Convert PDF To XML From File (Node.js)
-\PDF To XML API\JavaScript\Convert PDF To XML From File (Node.js) - Async API
 \PDF To XML API\JavaScript\Convert PDF To XML From Uploaded File (Node.js)
 \PDF To XML API\JavaScript\Convert PDF To XML From Uploaded File (Node.js) - Async API
 \PDF To XML API\JavaScript\Convert PDF To XML From URL (Node.js)
@@ -1177,6 +1214,9 @@
 \PDF To XML API\VB.NET\Convert PDF To XML From Uploaded File
 \PDF To XML API\VB.NET\Convert PDF To XML From URL
 \PDF To XML API\VB.NET\Convert PDF To XML From URL Asynchronously
+\PDF To XML API\zzz_Not Recommended\JavaScript
+\PDF To XML API\zzz_Not Recommended\JavaScript\Convert PDF To XML From File (Node.js)
+\PDF To XML API\zzz_Not Recommended\JavaScript\Convert PDF To XML From File (Node.js) - Async API
 \Render Url As Jpg\C#
 \Render Url As Jpg\cURL
 \Render Url As Jpg\Java
@@ -1219,6 +1259,7 @@
 \Replace Text From PDF\PowerShell
 \Replace Text From PDF\Python
 \Replace Text From PDF\VB.NET
+\Replace Text From PDF\zzz_Not Recommended
 \Replace Text From PDF\C#\Replace Text From Uploaded File
 \Replace Text From PDF\C#\Replace Text From URL
 \Replace Text From PDF\C#\Replace Text From URL Asynchronously
@@ -1226,8 +1267,6 @@
 \Replace Text From PDF\cURL\Replace Text Multiple Occurances
 \Replace Text From PDF\Java\Replace Text From Uploaded File
 \Replace Text From PDF\Java\Replace Text From URL
-\Replace Text From PDF\JavaScript\Replace Text From File (Node.js)
-\Replace Text From PDF\JavaScript\Replace Text From File (Node.js) - Async API
 \Replace Text From PDF\JavaScript\Replace Text From Uploaded File (Node.js)
 \Replace Text From PDF\JavaScript\Replace Text From Uploaded File (Node.js) - Async API
 \Replace Text From PDF\JavaScript\Replace Text From URL (Node.js)
@@ -1243,6 +1282,9 @@
 \Replace Text From PDF\VB.NET\Replace Text From Uploaded File
 \Replace Text From PDF\VB.NET\Replace Text From URL
 \Replace Text From PDF\VB.NET\Replace Text From URL Asynchronously
+\Replace Text From PDF\zzz_Not Recommended\JavaScript
+\Replace Text From PDF\zzz_Not Recommended\JavaScript\Replace Text From File (Node.js)
+\Replace Text From PDF\zzz_Not Recommended\JavaScript\Replace Text From File (Node.js) - Async API
 \Replace Text With Image From PDF\C#
 \Replace Text With Image From PDF\cURL
 \Replace Text With Image From PDF\Java
@@ -1251,14 +1293,13 @@
 \Replace Text With Image From PDF\PowerShell
 \Replace Text With Image From PDF\Python
 \Replace Text With Image From PDF\VB.NET
+\Replace Text With Image From PDF\zzz_Not Recommended
 \Replace Text With Image From PDF\C#\Replace Text With Image From Uploaded File
 \Replace Text With Image From PDF\C#\Replace Text With Image From URL
 \Replace Text With Image From PDF\C#\Replace Text With Image From URL Asynchronously
 \Replace Text With Image From PDF\cURL\Replace Text With Image
 \Replace Text With Image From PDF\Java\Replace Text With Image From Uploaded File
 \Replace Text With Image From PDF\Java\Replace Text With Image From URL
-\Replace Text With Image From PDF\JavaScript\Replace Text With Image From File (Node.js)
-\Replace Text With Image From PDF\JavaScript\Replace Text With Image From File (Node.js) - Async API
 \Replace Text With Image From PDF\JavaScript\Replace Text With Image From Uploaded File (Node.js)
 \Replace Text With Image From PDF\JavaScript\Replace Text With Image From Uploaded File (Node.js) - Async API
 \Replace Text With Image From PDF\JavaScript\Replace Text With Image From URL (Node.js)
@@ -1274,5 +1315,8 @@
 \Replace Text With Image From PDF\VB.NET\Replace Text With Image From Uploaded File
 \Replace Text With Image From PDF\VB.NET\Replace Text With Image From URL
 \Replace Text With Image From PDF\VB.NET\Replace Text With Image From URL Asynchronously
+\Replace Text With Image From PDF\zzz_Not Recommended\JavaScript
+\Replace Text With Image From PDF\zzz_Not Recommended\JavaScript\Replace Text With Image From File (Node.js)
+\Replace Text With Image From PDF\zzz_Not Recommended\JavaScript\Replace Text With Image From File (Node.js) - Async API
 \Text Recognition API\C#
 \Text Recognition API\C#\Perform OCR On Uploaded File Asynchronously
