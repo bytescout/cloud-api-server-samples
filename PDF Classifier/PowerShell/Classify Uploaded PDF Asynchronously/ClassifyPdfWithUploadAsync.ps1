@@ -35,9 +35,7 @@ function ClassifyDocument($fileUrl, $rules)
     $body = @{
         "async" = "true";
         "url" = $fileUrl;
-        "rulesCsv" = $rules;
-        "resultIdentifiersColumn" = $ResultIdentifiersColumnIndex;
-        "rulesColumn" = $RulesColumnIndex;
+        "rulescsv" = $rules;
         "caseSensitive" = $false
     } | ConvertTo-Json
 
